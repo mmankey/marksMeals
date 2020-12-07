@@ -1,6 +1,6 @@
-#Sloppy Joe
+# Sloppy Joe
 
-##Ingredients
+## Ingredients
 
 * 2 lbs 90% ground beef
 * 2/3 cup chopped onion
@@ -13,7 +13,7 @@
 * 1/3 tsp salt
 * 1 1/3 cup water
 
-##Cooking
+## Cooking
 
 1. Brown ground beef in a dutch oven with onion, pepper.
 2. Add all other ingredients (catsup, mustard, brown sugar, salt, water).
