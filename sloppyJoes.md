@@ -1,10 +1,12 @@
 # Sloppy Joe
 
-## Ingredients
+## Ingredients1
 
 * 2 lbs, 90% ground beef
 * 2/3 cup, chopped onion
 * dash, pepper
+
+## Ingredients2
 
 * 1 1/3 cup, catsup
 * 2/3 TB, mustard
