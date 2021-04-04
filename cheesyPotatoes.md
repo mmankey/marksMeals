@@ -28,3 +28,5 @@ Put combined ingredients 1 & 2 in a 13x9 inch glass dish.
 Cook at 325 for ~ 1 hour
 
 Toast cornflakes with butter in a pan, set asside and add to the top of potatoes durring the latst 15 min of cooking.
+
+Let stand at least 15 minutes before serving.
