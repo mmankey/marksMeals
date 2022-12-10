@@ -19,6 +19,12 @@
 * 1 tsp Salt
 * 2 tsp Pepper
 
+## Optional Topping Ingredients
+* Shredded Cheddar Cheese
+* Chili Cheese Fritos
+* Sour Cream
+* Chopped Green Onions
+
 ## Cooking
 
 1. Add Ingredients 1 to crock pot.
